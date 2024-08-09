@@ -2,7 +2,9 @@
 
 > 电话：`15919789305`       邮箱：`1430624563@qq.com`
 
-<img src="https://s2.loli.net/2024/08/05/KHw1BS4vG6h5jN9.jpg" alt="avatar">
+<div style="text-align: center;">
+    <img src="https://s2.loli.net/2024/08/05/KHw1BS4vG6h5jN9.jpg" alt="avatar">
+</div>
 
 ## 基本信息
 

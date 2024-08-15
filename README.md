@@ -25,9 +25,10 @@
 ## 专业技能
 
 - **熟悉Hybrid A\*、RRT\*、EMPlanner、Lattice Planner、Contingency Planner**等路径规划算法，了解**时空规划算法和时空走廊生成原理**。
+- 了解Diffusion、UniGen、Trajeglish等⽣成式模式，了解UniAd、VADv2端到端⾃动驾驶模型。
 - 熟悉**车辆动力学特性，掌握车辆动力学、运动学建模**，掌握**PID、LQR、MPC**等控制算法。
 - 熟悉**QP、ILQR等优化算法**，掌握**ipopt、OSQP等优化器**的使用方法。
-- 熟悉**FSM、BT、MDP、POMDP等决策模型**。
+- 熟悉**FSM、BT、MDP、POMDP等决策模型**，了解多智能体博弈ILQGames算法。
 - 掌握C++、Matlab和Python编程，熟悉**Apollo代码以及Ubuntu、Ros开发，掌握git**等工具。
 
 ## 工作经历
@@ -60,10 +61,6 @@
 - **基于ROS2框架和Carla仿真器，编写了较为完整的规划控制功能，实现不同的规划算法和控制算法并进行了效果比较，掌握相应的规划控制算法**。
 - **规划功能**，实现笛卡尔坐标系与Frenet坐标系的互相转换，实现了ILQR和OSQP两种优化算法，针对参考线进行平滑对比，实现了EMPlanner规划算法和Lattice Planner两种横纵向解耦的规划算法，在EMPlanner规划算法的基础上，针对路径规划和速度规划中DP功能耗时过大的问题，采用Astar算法进行代替求解，采用ILQR算法进行路径优化和速度优化。
 - **控制功能**，搭建了车辆动力学模型，实现了MPC控制器和LQR控制器，其中MPC控制器的横纵向控制都是MPC控制，LQR控制器横向控制采用LQR控制，纵向控制采用串级PID控制，在两种控制器基础上都添加了曲率前馈控制，并进行了相应的比较。
-
- ### 时空联合规划与Contingency Planner功能实现
-
-- 熟悉基础的时空联合规划思想，基于Python实现了时空联合规划功能，并实现了Contingency Planner模型。
 
 ### 基于Carla-Apollo的联合仿真项目实现- [github.com/Zhiyu-h/CARLA_APOLLO](https://github.com/Zhiyu-h/CARLA_APOLLO)
 

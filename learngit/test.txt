@@ -1,2 +1,6 @@
 huzhiyu
-this is main.
+<<<<<<< HEAD
+this is hzy.
+=======
+this is hzy.
+>>>>>>> hzy

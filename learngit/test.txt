@@ -1,6 +1,2 @@
 huzhiyu
-<<<<<<< HEAD
 this is hzy.
-=======
-this is hzy.
->>>>>>> hzy
